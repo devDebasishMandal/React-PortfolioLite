@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 136, 255);
+}
+
+
+.navbar{
+background-color: black;
+text-align: center;
+color: aliceblue;
+
+}
+.about{
+    text-align: center;
+}
+.about>h1{
+ text-align: center;
+}
+.about>img{
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.section{
+    text-align:center;
+}
+
+.footer{
+    color: rgb(0, 136, 255);
+    background-color:black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
